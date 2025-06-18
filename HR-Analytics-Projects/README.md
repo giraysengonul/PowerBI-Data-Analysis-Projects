@@ -26,7 +26,7 @@ This project presents an interactive Power BI dashboard developed to analyze emp
 
 ## 📸 Dashboard Preview
 
-![image](images/attrition-overview.png)
+![image](https://github.com/giraysengonul/PowerBI-Data-Analysis-Projects/blob/main/HR-Analytics-Projects/images/HRAnalytics-1.png)
 
 ## 💡 Business Value
 

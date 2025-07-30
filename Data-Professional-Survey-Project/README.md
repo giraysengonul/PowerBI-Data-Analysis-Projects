@@ -29,9 +29,7 @@ This Power BI project analyzes responses from a global survey of data profession
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](image1.png)
-
-> *You can replace `dashboard_image.png` with the actual file path or image URL.*
+![Dashboard Preview](assets/image1.png)
 
 ---
 
